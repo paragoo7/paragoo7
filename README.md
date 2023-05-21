@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, java and DSA**
 
-- ⚡ Fun fact **I'm really a big Madrid fan**
+- ⚡ Fun fact **I'm a big fan of Real Madrid **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

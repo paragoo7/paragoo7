@@ -26,5 +26,3 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragoo7&&hide_progress=true&count_private=false&show_icons=true&theme=dark"     width="400">
 </p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paragoo7&" alt="paragoo7" /></p>

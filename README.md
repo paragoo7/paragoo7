@@ -23,6 +23,6 @@
 <p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=paragoo7&count_private=false&show_icons=true&theme=dark" width="400"></a><br>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=paragoo7&count_private=true&show_icons=true&theme=dark" width="400"></a> <br>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragoo7&&hide_progress=true&count_private=false&show_icons=true&theme=dark"     width="400">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paragoo7&&hide_progress=true&count_private=true&show_icons=true&theme=dark"     width="400">
 </p>
 
